@@ -1,0 +1,17 @@
+{
+  "name": "example-estimating-gas",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "zksync-web3": "^0.14.3",
+    "ethers": "^5.7.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.3",
+    "vite": "^4.4.2"
+  }
+}
